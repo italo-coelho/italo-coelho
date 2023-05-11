@@ -31,6 +31,20 @@ alt="c" width="40" height="40"/></a>
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
 alt="cplusplus" width="40" height="40"/></a>
 
+<!--OpenCV-->
+
+<a href="https://opencv.org" target="blank" rel="noreferrer">
+  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" 
+alt="OpenCV" width="40" height="40"/></a>
+
+<!--LaTeX-->
+
+<a href="https://www.latex-project.org" target="blank" rel="noreferrer">
+  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
+alt="LaTeX" width="40" height="40"/></a>
+
 <!--
 **italo-coelho/italo-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
