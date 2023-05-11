@@ -1,6 +1,28 @@
 ### Hi there 👋
 My name is Ítalo.
 
+###Languages and Tools
+
+<!--PYTHON-->
+
+<a href="https://www.python.org" target="blank" rel="noreferrer">
+  <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+alt="python" width="40" height="40"/></a>
+<!--C-->
+
+<a href="https://www.cprogramming.com/" target="blank" rel="noreferrer">
+  <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+alt="c" width="40" height="40"/></a>
+
+<!--C++-->
+
+<a href="https://www.cplusplus.com" target="blank" rel="noreferrer">
+  <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+alt="cplusplus" width="40" height="40"/></a>
+
 <!--
 **italo-coelho/italo-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
