@@ -3,25 +3,30 @@ My name is Ítalo.
 
 ### Languages and Tools
 
+<!--Git-->
+
+<a href="https://git-scm.com/" target="blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+
 <!--Arduino-->
 
 <a href="https://arduino.cc" target="blank" rel="noreferrer">
   <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
 alt="arduino" width="40" height="40"/></a>
 
 <!--Python-->
 
 <a href="https://www.python.org" target="blank" rel="noreferrer">
   <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 alt="python" width="40" height="40"/></a>
 
 <!--C-->
 
 <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer">
   <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 alt="c" width="40" height="40"/></a>
 
 <!--C++-->
