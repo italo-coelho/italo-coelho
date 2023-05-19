@@ -50,6 +50,13 @@ alt="OpenCV" width="40" height="40"/></a>
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
 alt="LaTeX" width="40" height="40"/></a>
 
+<!--Raspberry Pi-->
+
+<a href="https://www.raspberrypi.org">
+  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" 
+alt="Raspberry Pi" width="40" height="40"/></a>
+
 <!--
 **italo-coelho/italo-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
