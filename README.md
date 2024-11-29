@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ítalo.
+My name is Ítalo. I work with PCB design and microcontroller programming. I also enjoy working with computer vision, specially using OpenCV and Python.
 
 ### Languages and Tools
 
